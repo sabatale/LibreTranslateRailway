@@ -4,6 +4,6 @@
         "builder": "NIXPACKS"
     },
     "deploy": {
-        "startCommand": "libretranslate"
+        "startCommand": "libretranslate --host 0.0.0.0"
     }
 }
